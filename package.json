@@ -1,0 +1,23 @@
+{
+  "name": "la-react-component",
+  "version": "0.0.1",
+  "description": "laily react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LailyAkter/la-react-components.git"
+  },
+  "keywords": [
+    "la-react-component",
+    "laily-component"
+  ],
+  "author": "laily akter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LailyAkter/la-react-components/issues"
+  },
+  "homepage": "https://github.com/LailyAkter/la-react-components#readme"
+}
